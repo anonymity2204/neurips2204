@@ -19,13 +19,16 @@ build train/validation/test sets,
 
 ```
 make_letter_list.py
-make_chinese_list.py
+make_chinese1_list.py
 ```
 
 
 ### training
-
-
+```
+train_mnist_resnet20.py
+train_letter_resnet20.py
+train_chinese1_resnet20.py
+```
 ### explanation generation
 
 
