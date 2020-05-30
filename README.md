@@ -26,13 +26,15 @@ make_chinese1_list.py
 ### training
 ```
 train_mnist_resnet20.py
-train_letter_resnet20.py
+train_capital_letter_resnet20.py
 train_chinese1_resnet20.py
 ```
 ### explanation generation
-
-
-
+```
+FARCE_mnist.py
+FARCE_capital_letter.py
+FARCE_chinese.py
+```
 ## Time and Space
 
 All experiments were run on NVIDIA TITAN Xp 
