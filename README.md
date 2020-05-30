@@ -8,7 +8,7 @@
 
 ## Datasets
 
-Our proposed Chinese Character dataset is accessible on [link]
+Our proposed Chinese Character dataset is accessible on [link](https://drive.google.com/drive/folders/1ShCuKkRx0Oeso4qRdHkiATFFXmDV4S5B?usp=sharing)
 
 
 ## Implementation details
