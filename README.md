@@ -42,8 +42,9 @@ All experiments were run on NVIDIA TITAN Xp
 
 model     | #GPUs | train time |
 ---------|--------|-----|
-AlexNet-CNN-baseline     | 1 | ~50min    | 
-VGG16-CNN-baseline     | 2 | ~70min    |
-Res50-CNN-baseline     | 1 | ~60min    | 
-VGG16-HardnessPredictor     | 4 | ~120min   |
-Res50-HardnessPredictor     | 2 | ~100min    |
+train_mnist_resnet20     | 1 | ~10min    | 
+train_capital_letter_resnet20    | 1 | ~7min    |
+train_chinese1_resnet20    | 1 | ~10min    | 
+FARCE_mnist     | 1 | ~20min   |
+FARCE_capital_letter     | 2 | ~20min    |
+FARCE_chinese     | 1 | ~20min   |
